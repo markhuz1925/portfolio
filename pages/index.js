@@ -68,9 +68,10 @@ const Home = () => (
           pandemic he decided to go home and pursue his new career in mobile and
           web app development. He landed his first freelance work as a ANGULAR
           Frontend Developer. Currently he is working with Resonate and Engage
-          Marketing as a frontend mobile and web app developer. His current
-          project is a mobile application called TURISTA a social-travel app
-          written in REACT NATIVE which is previously written in IONIC-ANGULAR.
+          Marketing, Inc., as a frontend mobile and web app developer. His
+          current project is a mobile application called TURISTA a social-travel
+          app written in REACT NATIVE which is previously written in
+          IONIC-ANGULAR.
         </Paragraph>
         <Box align="center" my={4}>
           <NextLink href="/works">
@@ -99,8 +100,8 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2020 to present</BioYear>
-          Works as a Frontend Mobile and Web App Developer at Resonate Engage
-          and Marketing.
+          Works as a Frontend Mobile and Web App Developer at Resonate and
+          Engage Marketing, Inc.
         </BioSection>
       </Section>
 
