@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-myportfolio/node_modules
+/myportfolio
 
 # testing
 /coverage
