@@ -47,10 +47,10 @@ const ContactMe = ({ contactInfo }: Props) => {
           <FaEnvelope className="text-yellow-400 h-6 w-6 " />
           <div className="text-sm">{contactInfo.email}</div>
         </div>
-        <div className="flex items-center space-x-5 justify-center">
+        {/* <div className="flex items-center space-x-5 justify-center">
           <FaMapMarkerAlt className="text-yellow-400 h-6 w-6 " />
           <div className="text-sm">{contactInfo.address}</div>
-        </div>
+        </div> */}
         <form
           onSubmit={handleSubmit(onSubmit)}
           className="flex flex-col space-y-4 w-fit mx-auto mt-5"
